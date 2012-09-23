@@ -24,7 +24,7 @@ Put `recipe[vim-janus]` in a run list.
 
 ## Contributors
 
-* ** [@eklein](https://github.com/eklein)**
+* **[@eklein](https://github.com/eklein)**
   * Updating to include support for specific users in users data bag
   * Updating to support OSX
 
